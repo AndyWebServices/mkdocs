@@ -2,4 +2,6 @@ site_name: AndyWebServices Documentation
 site_url: https://docs.andywebservices.com
 theme:
   name: material
-
+  logo: assets/logo.png
+  palette:
+    primary: red
