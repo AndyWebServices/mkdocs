@@ -1,5 +1,7 @@
 # Welcome to AndyWebServices Documentation
 
+Status: [https://status.andywebservices.com](https://status.andywebservices.com/)
+
 ## About AndyWebServices El El Sí
 
 AndyWebServices (AWS) is a proudly independent, questionably stable cloud platform offering bare bones "cloud"
