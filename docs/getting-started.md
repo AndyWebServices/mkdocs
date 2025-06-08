@@ -22,10 +22,11 @@ email: john-doe@andywebservices.com
 current_email: example@yahoo.com
 ```
 
-## **For Administrators Use Only. Users skip this step**
-1. Create an LLDAP user
-2. Create a PocketID User
-3. Create email forward between `email -> current_email`
+??? danger "**For Administrators Use Only. Users skip this step**"
+
+    1. Create an LLDAP user
+    2. Create a PocketID User
+    3. Create email forward between `email -> current_email`
 
 ## Change password on LLDAP Account:
 1. Administrator will provide you with your LLDAP password.
