@@ -10,7 +10,7 @@ When prompted to login, use your AWS **email**, i.e. the address ending in `@and
 `Sign in with a passkey`. Place your AWS email in the box with the hint `Enter your email...` and click `Sign in`. You 
 will be redirected to the AWS Pocket ID instance and be prompted to authenticate.
 
-![img.png](services/tailscale-only/tailscale-login.png)
+![img.png](assets/tailscale-login.png)
 
 ## Troubleshooting
 
