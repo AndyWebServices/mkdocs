@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.andywebservices.com/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.andywebservices.com/getting-started/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.andywebservices.com/tailscale/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.andywebservices.com/services/types/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.andywebservices.com/services/public/karakeep/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.andywebservices.com/services/public/openwebui/</loc>
+         <lastmod>2025-06-09</lastmod>
+    </url>
+</urlset>
